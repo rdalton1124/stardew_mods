@@ -1,0 +1,13 @@
+{
+	"Format": "2.0.0", 
+	"Changes": [
+		{
+			"Action": "EditData", 
+			"Target": "Data/Objects", 
+			"TargetField": ["417"], 
+			"Entries": {
+				"ContextTags": ["color_red", "preserves_jelly", "keg_wine"]	
+			}
+		}
+	]
+}

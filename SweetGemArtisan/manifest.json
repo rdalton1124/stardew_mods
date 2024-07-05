@@ -1,0 +1,11 @@
+{
+"Name":"SweetGemArtisan",
+"Author":"rebdal",
+"Description":"Modifies game files to allow you to create artison goods from sweet gem berries. Requires ContentPatcher",
+"UniqueId":"rebdal.SweetGemAritsan",
+"Version":"1.0.0",
+"UpdateKeys":[],
+"ContentPackFor":{
+"UniqueId":"Pathoschild.ContentPatcher"
+}
+}
